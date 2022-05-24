@@ -1,5 +1,5 @@
 
-public class Coke extends ColdDrink{
+public class Coke extends ColdDrink {
 
     @Override
     public float price() {
@@ -10,5 +10,5 @@ public class Coke extends ColdDrink{
     public String name() {
         return "Coke";
     }
-    
+
 }

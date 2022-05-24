@@ -1,6 +1,5 @@
-public abstract class ColdDrink implements Item {
 
-   
+public abstract class ColdDrink implements Item {
 
     @Override
     public Packing packing() {
@@ -9,6 +8,5 @@ public abstract class ColdDrink implements Item {
 
     @Override
     public abstract float price();
-    
-    
+
 }

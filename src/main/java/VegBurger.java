@@ -1,5 +1,5 @@
 
-public class VegBurger extends Burger{
+public class VegBurger extends Burger {
 
     @Override
     public float price() {
@@ -10,5 +10,5 @@ public class VegBurger extends Burger{
     public String name() {
         return "Veg Burger";
     }
-    
+
 }

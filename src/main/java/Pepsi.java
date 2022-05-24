@@ -10,5 +10,5 @@ public class Pepsi extends ColdDrink {
     public String name() {
         return "Pepsi";
     }
-    
+
 }
